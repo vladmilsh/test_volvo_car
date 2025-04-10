@@ -1,6 +1,6 @@
 #  Copyright (c) 2025, Vladimir <vladmilsh@gmail.com>
 """Это тестовая интеграция автомобиля Volvo.
-vmc/VMC - "vovlvo my car"
+vmc/VMC - "volvo my car"
 """
 import requests
 import json
