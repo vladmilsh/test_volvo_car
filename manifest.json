@@ -1,1 +1,11 @@
-
+  {
+    "domain": "volvo_mycar",
+    "name": "VolvoMycar",
+    "codeowners": [],
+    "dependencies": [],
+    "documentation": "https://www.ex.com",
+    "integration_type": "service",
+    "iot_class": "cloud_push",
+    "config_flow": true,
+    "requirements": []
+  }
