@@ -1,0 +1,69 @@
+[
+    {
+        "data": {
+            "oilLevelWarning": {
+                "value": "TOO_HIGH",
+                "timestamp": "2025-04-10T20:39:23.566Z"
+            },
+            "engineCoolantLevelWarning": {
+                "value": "TOO_LOW",
+                "timestamp": "2025-04-10T20:39:23.566Z"
+            }
+        }
+    },
+    {
+        "data": {
+            "frontLeftWindow": {
+                "value": "OPEN",
+                "timestamp": "2025-04-10T20:39:23.987Z"
+            },
+            "frontRightWindow": {
+                "value": "CLOSED",
+                "timestamp": "2025-04-10T20:39:23.987Z"
+            },
+            "rearLeftWindow": {
+                "value": "CLOSED",
+                "timestamp": "2025-04-10T20:39:23.987Z"
+            },
+            "rearRightWindow": {
+                "value": "CLOSED",
+                "timestamp": "2025-04-10T20:39:23.987Z"
+            },
+            "sunroof": {
+                "value": "CLOSED",
+                "timestamp": "2025-04-10T20:39:23.987Z"
+            }
+        }
+    },
+    {
+        "data": {
+            "engineStatus": {
+                "value": "STOPPED",
+                "timestamp": "2025-04-10T20:39:24.426Z"
+            }
+        }
+    },
+    {
+        "data": {
+            "fuelAmount": {
+                "value": 42.0,
+                "unit": "l",
+                "timestamp": "2025-04-10T20:39:24.845Z"
+            },
+            "batteryChargeLevel": {
+                "value": 42.0,
+                "unit": "%",
+                "timestamp": "2025-04-10T20:39:24.845Z"
+            }
+        }
+    },
+    {
+        "data": {
+            "odometer": {
+                "value": 42,
+                "unit": "km",
+                "timestamp": "2025-04-10T20:39:25.988Z"
+            }
+        }
+    }
+]
