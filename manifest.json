@@ -3,7 +3,7 @@
     "name": "VolvoMycar",
     "codeowners": [],
     "dependencies": [],
-    "documentation": "https://www.ex.com",
+    "documentation": "https://github.com/vladmilsh/test_volvo_car",
     "integration_type": "service",
     "iot_class": "cloud_push",
     "config_flow": true,
