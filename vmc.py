@@ -16,7 +16,7 @@ class VMC:
     
     def pull_data(self):
         vin = 'YV4952NA4F120DEMO'
-        token = input("Введите ваше token: ")
+        token = input("Введите ваш token: ")
         api='050ccfbfa63143a5900bed0fe3785fd1'
 
         url = [
